@@ -1,4 +1,4 @@
-Details of the last good commit:
+<h3>Details of the last good commit:</h3>
 Commit: c663284e9241c923c4b247f4b18540006ba2afea 
 Date: Thu Mar 20 12:27:54 2014 +1030 
 By: gardners paul@servalproject.org 
@@ -104,7 +104,7 @@ About to kill student process 9940
 Seeing how that went.
 
 Recommendation to correct the code to pass the failed test: 
-“Failed to return token from token challenge request” is caused by the following misplacement of iteration statement. Please follow up the comments made in the code snippet to correct the issue.
+ï¿½Failed to return token from token challenge requestï¿½ is caused by the following misplacement of iteration statement. Please follow up the comments made in the code snippet to correct the issue.
 
 int byteRead2 = 0;
 char line2[3000];
