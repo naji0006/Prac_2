@@ -1,11 +1,11 @@
 <h3>Details of the last good commit:</h3>
-Commit: c663284e9241c923c4b247f4b18540006ba2afea 
-Date: Thu Mar 20 12:27:54 2014 +1030 
-By: gardners paul@servalproject.org 
+<b>Commit:</b> <a href = "https://github.com/naji0006/2014SE3/commit/c663284e9241c923c4b247f4b18540006ba2afea#diff-97dbdc5217aebe3fe38e25646983c111" target = "_blank">c663284e9241c923c4b247f4b18540006ba2afea</a><br/>
+<b>Date:</b> Thu Mar 20 12:27:54 2014 +1030<br/> 
+<b>By:</b> gardners paul@servalproject.org<br/>
 
 This commit has passed 24 tests out of the existing 25, therefore it meets the criteria to be successful. The following is the output of the mentioned commit:
 
-connect() to port failed: Connection refused
+<i>connect() to port failed: Connection refused
 Port 42509 is available for use by student programme.
 connect() to port failed: Connection refused
 SUCCESS: Accepts connections on specified TCP port
@@ -48,17 +48,17 @@ Score for functional aspects of assignment 1 will be 80%.
 Score for style (0% -- 16%) will be assessed manually.
 Therefore your grade for this assignment will be in the range 80% -- 96% (DN -- HD)
 About to kill student process 9742
-Seeing how that went.
+Seeing how that went.</i>
 
 
-Details of first bad commit:
-Commit: ce1e9cf1c27b8f09063d7ffb07aa5b6ce7597f70
-Date: Thu Mar 20 12:31:02 2014 +1030
-By: gardners paul@servalproject.org 
+<h3>Details of first bad commit:</h3>
+<b>Commit:</b> <a href = "https://github.com/naji0006/2014SE3/commit/ce1e9cf1c27b8f09063d7ffb07aa5b6ce7597f70#diff-97dbdc5217aebe3fe38e25646983c111" target = "_blank">ce1e9cf1c27b8f09063d7ffb07aa5b6ce7597f70
+<b>Date:</b> Thu Mar 20 12:31:02 2014 +1030
+<b>By:</b> gardners paul@servalproject.org 
 
 This commit has passed 23 tests out of the existing 25, therefore it does not meets the criteria to be successful. The following is the output of the mentioned commit:
 
-connect() to port failed: Connection refused
+<i>connect() to port failed: Connection refused
 Port 42707 is available for use by student programme.
 connect() to port failed: Connection refused
 SUCCESS: Accepts connections on specified TCP port
@@ -101,15 +101,15 @@ Score for functional aspects of assignment 1 will be 77%.
 Score for style (0% -- 16%) will be assessed manually.
 Therefore your grade for this assignment will be in the range 77% -- 93% (DN -- HD)
 About to kill student process 9940
-Seeing how that went.
+Seeing how that went.</i>
 
-Recommendation to correct the code to pass the failed test: 
-�Failed to return token from token challenge request� is caused by the following misplacement of iteration statement. Please follow up the comments made in the code snippet to correct the issue.
+<b>Recommendation to correct the code to pass the failed test:</b><br/>
+"Failed to return token from token challenge request" is caused by the following misplacement of iteration statement. Please follow up the comments made in the code snippet to correct the issue.
 
-int byteRead2 = 0;
-char line2[3000];
-for(i = 0;i<size;i++){
-line2[i] = '\0';   /* This iteration statement is removed in this commit. It must be added back within the loop */
-}
-line2[i] = '\0'; /* This iteration statement is added in this commit. It must be removed as it is outside of the loop */
-char token[9];
+int byteRead2 = 0;<br/>
+char line2[3000];<br/>
+for(i = 0;i<size;i++){<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;line2[i] = '\0';   /* This iteration statement is removed in this commit. It must be added back within the loop */
+}<br/>
+line2[i] = '\0'; /* This iteration statement is added in this commit. It must be removed as it is outside of the loop */<br/>
+char token[9];<br/>
