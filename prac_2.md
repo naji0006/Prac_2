@@ -1,4 +1,4 @@
-<h3>Details of the last good commit:</h3>
+<h3>Details of the last good commit of directory 5:</h3>
 <b>Commit:</b> <a href = "https://github.com/naji0006/2014SE3/commit/c663284e9241c923c4b247f4b18540006ba2afea#diff-97dbdc5217aebe3fe38e25646983c111" target = "_blank">c663284e9241c923c4b247f4b18540006ba2afea</a><br/>
 <b>Date:</b> Thu Mar 20 12:27:54 2014 +1030<br/> 
 <b>By:</b> gardners paul@servalproject.org<br/>
@@ -51,7 +51,7 @@ About to kill student process 9742
 Seeing how that went.</i>
 
 
-<h3>Details of first bad commit:</h3>
+<h3>Details of first bad commit of directory 5:</h3>
 <b>Commit:</b> <a href = "https://github.com/naji0006/2014SE3/commit/ce1e9cf1c27b8f09063d7ffb07aa5b6ce7597f70#diff-97dbdc5217aebe3fe38e25646983c111" target = "_blank">ce1e9cf1c27b8f09063d7ffb07aa5b6ce7597f70</a><br/>
 <b>Date:</b> Thu Mar 20 12:31:02 2014 +1030<br/>
 <b>By:</b> gardners paul@servalproject.org<br/> 
